@@ -1,6 +1,6 @@
 # sell
 
-> this is a sell app
+> 使用Vue开发的一个外卖webapp页面
 
 ## Build Setup
 
